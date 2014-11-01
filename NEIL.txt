@@ -1,0 +1,36 @@
+
+I think you might like this:
+
+
+The function f is defined by the formula
+
+			{ 2x - 3a		if x < 0
+		f = { ax^2 + 2b		if 0 <= x <= 2
+			{ x - 4			if x > 2
+
+	What values of a and b make f continuous
+
+
+heres another:
+
+		 ______________________
+	x = / 6 + 	_______________
+			   / 6 +   ________
+			   		  / 6 + ...
+
+	find or approximate x
+
+or this:
+
+	find dy/dx for
+
+
+	cos(y^2) = xy + e^(sin(y))
+
+
+	(where y is a function of x)
+
+
+
+oh and, Happy halloween 
+
